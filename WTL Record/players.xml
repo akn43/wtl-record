@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<best>
+ <cricketer>
+   <name>Virender Sehwag</name>
+   <country>India</country>
+   <type>Bat/Spin</type>
+ </cricketer>
+ <cricketer>
+   <name>Sachin Tendulkar</name>
+   <country>India</country>
+   <type>Bat/Spin</type>
+ </cricketer>
+  <cricketer>
+  <name>Ricky Ponting</name>
+   <country>Australia</country>
+   <type>Bat</type>
+ </cricketer>
+ <cricketer>
+  <name>Kumar Sangakara</name>
+   <country>Srilanka</country>
+   <type>Bat/Wicketkeeper</type>
+ </cricketer>
+ <cricketer>
+  <name>Jacques Kallis</name>
+   <country>Southafrica</country>
+   <type>Bat/Seam</type>
+   </cricketer>
+</best>

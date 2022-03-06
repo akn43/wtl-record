@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<students>
+ <student>
+   <name>Antony</name>
+   <age>21</age>
+   <subject>Java</subject>
+   <gender>Male</gender>
+ </student>
+ <student>
+   <name>Jane </name>
+   <age>28</age>
+   <subject>Maths</subject>
+   <gender>Female</gender>
+ </student>
+ <student>
+   <name>Mark</name>
+   <age>17</age>
+   <subject>Science</subject>
+   <gender>Male</gender>
+ </student>
+</students>
